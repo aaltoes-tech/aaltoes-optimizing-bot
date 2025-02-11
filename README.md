@@ -1,12 +1,9 @@
-
 # Aaltoes Telegram Bot
 
 This project provides a portfolio optimization solution through a Telegram bot interface, focusing on investment decisions with stochastic factors, constraints, and dependencies between projects. Users can interact with the bot to upload data, define parameters, and receive an optimization report.
 
-For creation of this README.MD file cudos to ChatGPT-4o
-
-You can find project demo here:
-https://youtu.be/6G5rUYQPuCg
+You can find the project demo here:
+[YouTube Demo](https://youtu.be/6G5rUYQPuCg)
 
 ## Features
 
@@ -46,7 +43,7 @@ https://youtu.be/6G5rUYQPuCg
    python bot.py
    ```
 
-3. **Interact via Telegram**: 
+3. **Interact via Telegram**:
    - Upload your input file to the bot.
    - Set the required optimization parameters.
    - Receive the generated report.
@@ -92,3 +89,8 @@ The bot generates an automatically formatted report (`example_files/sample_repor
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
+
+## License
+
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for more details.
+
