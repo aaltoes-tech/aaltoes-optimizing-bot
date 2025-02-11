@@ -1,5 +1,5 @@
 
-# Portfolio Optimization Bot
+# Aaltoes Telegram Bot
 
 This project provides a portfolio optimization solution through a Telegram bot interface, focusing on investment decisions with stochastic factors, constraints, and dependencies between projects. Users can interact with the bot to upload data, define parameters, and receive an optimization report.
 
