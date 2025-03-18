@@ -4,16 +4,12 @@ Thank you for your interest in contributing to the Aaltoes Telegram Bot project!
 
 ## Project Background
 
-This Telegram bot was originally designed to solve an optimization problem related to project portfolio selection. However, we now aim to expand its functionality to serve the **Aaltoes community**, making daily interactions more seamless. The new version of the bot will integrate useful commands for the **Aaltoes community chat**, enhance engagement with the **Startup Sauna workspace**, and act as a **knowledge hub** for Aaltoes-related information and assistance.
+This Telegram bot is designed to solve an optimization problem related to project portfolio selection.
 
 ## How to Contribute
 
-We welcome contributions in various forms, including:
-- **Developing new features**: Implement commands that improve community interaction and engagement.
-- **Enhancing usability**: Improve response handling, user experience, and bot interactions.
-- **Adding Aaltoes information**: Ensure the bot provides comprehensive and updated details about Aaltoes initiatives, events, and community resources.
-- **Bug fixes and optimizations**: Help improve code efficiency and resolve existing issues.
-- **Documentation improvements**: Update or enhance guides, FAQs, and bot usage instructions.
+You can add features that allow solving harder optimization problem, output more sofisticated reports or use generative AI. We are welcome to any useful features in the scope of the project.
+
 
 ## Getting Started
 
@@ -51,14 +47,6 @@ We welcome contributions in various forms, including:
 7. **Submit a Pull Request**
    - Open a **Pull Request (PR)** to the `main` branch.
    - Provide a clear description of your changes and their purpose.
-
-## Future Development
-
-Some planned additions include:
-- **Aaltoes Q&A Module**: A built-in knowledge base with commonly asked questions about Aaltoes.
-- **Community Chat Commands**: Features to assist members with event schedules, workspace bookings, and startup resources.
-- **Integration with Startup Sauna**: Tools to connect community members with mentorship and workspace updates.
-- **Enhanced User Interactivity**: Polls, announcements, and interactive workflows for better engagement.
 
 ## Code of Conduct
 
